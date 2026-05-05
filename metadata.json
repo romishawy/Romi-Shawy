@@ -1,0 +1,8 @@
+{
+  "name": "Analisis Berita Kebijakan Kemenag",
+  "description": "Interactive dashboard for aggregating news, categorizing issues, and providing deep policy analysis for the Ministry of Religious Affairs.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
